@@ -27,15 +27,15 @@ The interface is designed for an engaging and intuitive experience, making AI as
 ## 📸 Screenshots
 
 ### 1️⃣ Chat Interface
-![Chat UI]([path/to/chat-ui.jpg](https://github.com/rishikeshsingh21/javaScriptProjects/blob/fee63ff58355bfa2c2d89f2c7b02a678ad9ffa47/P1.1.png))
-![](https://github.com/rishikeshsingh21/javaScriptProjects/blob/fee63ff58355bfa2c2d89f2c7b02a678ad9ffa47/P1.2.png )
+![image]([path/to/chat-ui.jpg](https://github.com/rishikeshsingh21/javaScriptProjects/blob/fee63ff58355bfa2c2d89f2c7b02a678ad9ffa47/P1.1.png))
+![image]([path/to/chat-ui.jpg]https://github.com/rishikeshsingh21/javaScriptProjects/blob/fee63ff58355bfa2c2d89f2c7b02a678ad9ffa47/P1.2.png )
 
 ### 2️⃣ Image Upload Feature
 ![Image Upload]([path/to/image-upload.jpg](https://github.com/rishikeshsingh21/javaScriptProjects/blob/fee63ff58355bfa2c2d89f2c7b02a678ad9ffa47/P1.4.png ))
 
 ### 3️⃣ Emoji Selection
 ![Emoji]([path/to/mobile-view.jpg](https://github.com/rishikeshsingh21/javaScriptProjects/blob/fee63ff58355bfa2c2d89f2c7b02a678ad9ffa47/P1.3.png ))
-![](https://github.com/rishikeshsingh21/javaScriptProjects/blob/fee63ff58355bfa2c2d89f2c7b02a678ad9ffa47/P1.5.png )
+![]([path/to/chat-ui.jpg]https://github.com/rishikeshsingh21/javaScriptProjects/blob/fee63ff58355bfa2c2d89f2c7b02a678ad9ffa47/P1.5.png )
 
 ## 🛠️ Installation & Setup
 
